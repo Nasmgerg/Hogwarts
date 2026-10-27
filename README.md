@@ -6,7 +6,7 @@ Egy C# / Windows Forms asztali alkalmazás egy kitalált varázslóiskola, a **R
 
 | Főablak | Új varázsló felvétele | Validációs hiba |
 |---|---|---|
-| ![Főablak](docs/screenshots/main.png) | ![Új varázsló felvétele](docs/screenshots/add.png) | ![Validációs hiba](docs/screenshots/validation.png) |
+| ![Főablak](docs/main.png) | ![Új varázsló felvétele](docs/add.png) | ![Validációs hiba](docs/validation.png) |
 
 ## Tartalom
 
