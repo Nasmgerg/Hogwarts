@@ -1,0 +1,11 @@
+## Visual Studio / .NET
+.vs/
+bin/
+obj/
+*.user
+*.suo
+TestResults/
+
+## SQLite ideiglenes fájlok
+*.db-wal
+*.db-shm
